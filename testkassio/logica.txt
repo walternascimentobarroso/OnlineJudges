@@ -1,0 +1,12 @@
+primeiro o programa recebe a quantidade de elementos que a lista receberá
+após isso recebe o numero de contato de cada elemento da lista
+e depois informa a quantidade de espaço necessárrio
+
+
+walter - instruction
+* recebe um inteiro com o total de entradas
+* recebe as entradas (strings)
+* conta o total da primeira string
+* compara a proxima string com a anterior e começa a contar a partir da diferença da string (loop)
+* exibir o total de caracteres necessarios
+
