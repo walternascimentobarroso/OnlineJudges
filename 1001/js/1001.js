@@ -8,5 +8,5 @@ let lines = input.split('\n');
 //https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/shift
 let a = parseInt(lines.shift());
 let b = parseInt(lines.shift());
-   
-console.log('X = ' + (a+b));
+
+console.log(`X = ${a + b}`);
