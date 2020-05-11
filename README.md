@@ -19,11 +19,7 @@
 
 ## :card_index: Solution urionlinejudge
 
-Nesse desafio, você deve planejar os seus estudos.
-
-Para isso, você deve criar um cronograma que irá se adaptar ao seu tempo e ritmo.
-
-Defina qual será seu horário de estudo, criando tarefas que estarão atreladas a um calendário, para se manter com foco e sempre alinhado com seus objetivos!
+My solution in C and JS for urionlinejudge challenges
 
 ## :memo: License
 
